@@ -31,7 +31,7 @@ Clockclock is a kinetic sculpture design by Humans Since 1982, consisting of 24 
 The entire clock is composed of 24 sub-clocks, arranged on a 8x3 matrix, that are fully independent. A module that contains 3 clocks and can show vertically an half digit has been designed. A total of 8 boards are used to make up the entire clock, nothing prohibits adding more, thus increasing the number of digits.
 
 ### Motor
-After careful research, *VID28-05* (or *BKA30D-R5*) stepper motor was chosen. It is made by two separate motors that drive the two shafts individually, that is perfect for attaching the hands. Moreover, this type is sold by some vendors (search on Aliexpress) with no endstops and can turn freely.
+After careful research, *VID28-05* (or [*BKA30D-R5*](https://www.bkamotor.com/uploadfiles/2024/11/20241128093231561.pdf))  stepper motor was chosen. It is made by two separate motors that drive the two shafts individually, that is perfect for attaching the hands. Moreover, this type is sold by some vendors (search on Aliexpress) with no endstops and can turn freely.
 
 <img align="right" width="400"  src="/images/vid-28.gif">
 
